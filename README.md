@@ -1,5 +1,5 @@
 # SOC
-Chat-bot work 
+ Summary so far:
 
 Started off with learning basics of python, then learnt about numpy,pandas and matplot libraries.
 
