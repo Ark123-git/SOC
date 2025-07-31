@@ -1,2 +1,2 @@
 # SOC
-Successfullt built a gpt like langauge predictor model.
+Successfully built a gpt like langauge predictor model.
